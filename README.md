@@ -94,7 +94,7 @@
 <p align="left">
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  /a>
+  </a>
 </p>
 <h3 align="left">Other:</h3>
 <p align="left">
