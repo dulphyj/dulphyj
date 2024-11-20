@@ -117,11 +117,12 @@
 
 <h3 align="left">Languages:</h3>
 <div style="display: flex; align-items: center;">
-  <div style="text-align: left; margin-right: 10px; font-weight: bold;">Spanish</div>
-  <div style="font-size: 18px;">Native</div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/40px-Flag_of_Spain.svg.png" alt="Spanish" title="Spanish (Native)" width="40" height="40"/>
+  <div style="font-size: 18px; margin-left: 10px;">Native</div>
 </div>
 <div style="display: flex; align-items: center;">
-  <div style="text-align: left; margin-right: 10px; font-weight: bold;">English</div>
-  <div style="font-size: 18px;">B2</div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/40px-Flag_of_the_United_States.svg.png" alt="English" title="English (B2)" width="40" height="40"/>
+  <div style="font-size: 18px; margin-left: 10px;">B2</div>
 </div>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulphyj&show_icons=true&locale=en&layout=compact" alt="dulphyj" /></p>
