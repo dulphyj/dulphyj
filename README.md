@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm Gonzalo Encinas 👋</h1>
 <h3 align="center">Full Stack Developer from Cochabamba, Bolivia 🇧🇴</h3>
 
-<p align="center">💻 I'm a full-stack developer with Spring Boot and Angular. You can see the projects I develop here.</p>
+<p align="center">💻 I'm a systems engineer and full-stack developer.<br>
+                      Developing personal projects to improve my skills.<br>
+                      Always learning to improve my skills, doing what I'm passionate about, solving problems.</p>
 
 <p align="center">
   <a href="https://gonzaloencinas.com" target="_blank">🌐 Visit my portfolio</a> |
