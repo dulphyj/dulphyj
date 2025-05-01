@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Gonzalo Encinas 👋</h1>
-<h3 align="center">Full Stack Developer from Cochabamba, Bolivia 🇧🇴</h3>
 <img src="https://res.cloudinary.com/digxhcgyu/image/upload/v1746127020/banner_qp14oq.jpg" alt =""/>
 
 <p align="center">💻 I'm a systems engineer and full-stack developer.<br>
