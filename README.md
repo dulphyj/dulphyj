@@ -5,10 +5,6 @@
                       Developing personal projects to improve my skills.<br>
                       Always learning to improve my skills, doing what I'm passionate about, solving problems.</p>
 
-<p align="center">
-  <a href="https://gonzaloencinas.com" target="_blank">🌐 Visit my portfolio</a> |
-  📫 Contact me at: <a href="mailto:dulphyj@gmail.com">dulphyj@gmail.com</a>
-</p>
 
 ---
 
