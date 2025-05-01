@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently **Seeking new opportunities in web development and embarking on an independent journey in web development.**
 
-- 👨‍💻 Explore my projects at [portfolio.dlphsolutions.com](https://portfolio.dlphsolutions.com)
+- 👨‍💻 Explore my projects at [portfolio.dlphsolutions.com](https://gonzaloencinas.com)
 
 - 📫 Reach out to me at **dulphyj@gmail.com**
 
